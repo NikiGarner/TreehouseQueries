@@ -91,6 +91,9 @@ footer .wrapper {
   height: 200px;
   bottom: 0px;
 }
+img{
+  max-width: 100%;
+}
 
 /*************************
 Media Queries
